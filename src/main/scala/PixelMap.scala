@@ -1,0 +1,1 @@
+case class PixelMap(w: Int, h: Int, m: Map[(Int, Int), Int])
